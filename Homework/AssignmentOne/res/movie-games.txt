@@ -1,0 +1,139 @@
+1000;Seabiscuit;Drama;Gary Ross;Tobey Maguire;Jeff Bridges,Chris Cooper;140;PG-13;2003/04/15
+1001;Seabiscuit;Drama;Gary Ross;Tobey Maguire;Jeff Bridges,Chris Cooper;140;PG-13;2003/04/15
+1002;Seabiscuit;Drama;Gary Ross;Tobey Maguire;Jeff Bridges,Chris Cooper;140;PG-13;2003/04/15
+1005;Mission Impossible - Operation Surma;Action;Paradigm Entertainment, Inc.;Play Station 2;T;2003/11/22
+1003;The Longest Day;Drama;Ken Annakin;John Wayne;Robert Michum,Henry Fonda;179;G;1962/06/06
+1006;Armed & Dangerours;Shooter;Planet Moon Studios;Xbox;T;2003/10/25
+1007;Goblin commander: Unleash the Horde;Strategy;Jaleco Entertainment;Nintendo GameCube;T;2003/09/05
+1004;Bad Boys II;Action;Michael Bay;Martin Lawrence, Will Smith;Jordi Molla, Gabrielle Union;146;R;2003/08/23
+1010;Bad Boys II;Action;Michael Bay;Martin Lawrence, Will Smith;Jordi Molla, Gabrielle Union;146;R;2003/08/23
+1008;Max Payne 2: The Fall of Max Payne;Shooter;Remedy Entertainment Ltd.;Play Station 2;M;2003/10/04
+1009;Dragon Ball Z: Budokai 2;Action;DIMPS;Play Station 2;T;2003/08/29
+1011;Book of Days;Drama;Harry Ambrose;Wil Wheaton, Maureen Flannigan;Issac Hayes,Richard Grieco;120;PG-13;2003/02/25
+1015;Seven Samurai 20XX;Action;DIMPS;Play Station 2;T;2003/09/24
+1012;Bruce Almighty;Comedy;Tom Shadyac;Jim Carrey, Jennifer Aniston;Morgan FreeMan,Catherine Bell;101;PG-13;2003/03/18
+1013;Bruce Almighty;Comedy;Tom Shadyac;Jim Carrey, Jennifer Aniston;Morgan FreeMan,Catherine Bell;101;PG-13;2003/03/18
+1014;Bruce Almighty;Comedy;Tom Shadyac;Jim Carrey, Jennifer Aniston;Morgan FreeMan,Catherine Bell;101;PG-13;2003/03/18
+1016;Grand Theft Auto Double Pack;Action;Rockstar Games;Xbox;M;2003/09/12
+1017;Grand Theft Auto Double Pack;Action;Rockstar Games;Xbox;M;2003/09/12
+1018;Grand Theft Auto Double Pack;Action;Rockstar Games;Xbox;M;2003/09/12
+1019;Grand Theft Auto Double Pack;Action;Rockstar Games;Xbox;M;2003/09/12
+1020;Freaky Friday;Comedy;Disney;Jamie Lee Curtis, Lindsay Lohan;Mark Harmon,Harold Gould;96;PG;2003/07/12
+1021;Gigli;Comedy;Martin Brest;Ben Affleck,Jennifer Lopez;Justin Bartha,Lainie Kazan,Missy Crider;124;R;2003/09/15
+1025;Tony Hawk's Underground;Sports;Neversoft Entertainment;Play Station 2;T;2003/11/17
+1022;The League of Extraordinary Gentlemen;Action;Steve Norrington;sean Connery;Shane West,Stuart Townsend;110;PG-13;2003/10/24
+1026;Outlaw Volleyball;Sports;Hypnotix, Inc.;Xbox;M;2003/08/13
+1023;X2: X-Men United;Action;Bryan Singer;Patrick Stewart;Huge Jackman, Ian McKellen,Halle Berry;135;PG-13;2003/09/14
+1027;Conflict: Desert Storm;Shooter;Pivotal Games Ltd.;Nintendo Gamecube;T;2003/07/23
+1028;Conflict: Desert Storm;Shooter;Pivotal Games Ltd.;Nintendo Gamecube;T;2003/07/23
+1024;Assination Tango;Drama;Robert Duvall;Robert Duvall,Kathey Baker;Ruben Blades,Luciana Pedraza;114;R;2002/11/04
+1029;Tom Clancy's Ghost Recon;Shooter;Red Storm Entertainment, Inc.;Nintendo Gamecube;M;2003/04/17
+1035;Tom Clancy's Ghost Recon;Shooter;Red Storm Entertainment, Inc.;Nintendo Gamecube;M;2003/04/17
+1036;Tom Clancy's Ghost Recon;Shooter;Red Storm Entertainment, Inc.;Nintendo Gamecube;M;2003/04/17
+1037;Tom Clancy's Ghost Recon;Shooter;Red Storm Entertainment, Inc.;Nintendo Gamecube;M;2003/04/17
+1030;Shattered Lies;Action;Gerry Lively;Frank Zagarino,Elizabeth Giordano;James Russo;95;R;2002/08/22
+1038;The Sum of All Fears;Shooter;Ubi Soft China;Nintendo Gamecube;T;2002/11/18
+1031;Pirates of the Caribean: The Curse of the Black Pearl;Action;Gore Verbinski;Johnny Depp,Geoffrey Rush;Orlando Bloom,Keira Knightley;143;PG-13;2003/11/16
+1032;Pirates of the Caribean: The Curse of the Black Pearl;Action;Gore Verbinski;Johnny Depp,Geoffrey Rush;Orlando Bloom,Keira Knightley;143;PG-13;2003/11/16
+1033;Pirates of the Caribean: The Curse of the Black Pearl;Action;Gore Verbinski;Johnny Depp,Geoffrey Rush;Orlando Bloom,Keira Knightley;143;PG-13;2003/11/16
+1039;NFL GameDay 2004;Sports;Red Zone Interactive, Inc.;Play Station 2;E;2003/12/04
+1045;NFL GameDay 2004;Sports;Red Zone Interactive, Inc.;Play Station 2;E;2003/12/04
+1046;NFL GameDay 2004;Sports;Red Zone Interactive, Inc.;Play Station 2;E;2003/12/04
+1034;Kill Bill Vol. 1;Action;Quentin Tarantino;Uma Thurman;Lucy Liu, Vivica A. Fox;107;R;2004/04/13
+1040;Kill Bill Vol. 1;Action;Quentin Tarantino;Uma Thurman;Lucy Liu, Vivica A. Fox;107;R;2004/04/13
+1047;True Crime: Streets of L.A.;Action;Luxoflux;Play Station 2;M;2003/10/27
+1041;Master and Commander: The Far Side of the World;Action;Peter Weir;Russell Crowe;Paul Bettany, Gerorge Innes;139;PG-13;2004/04/20
+1042;Master and Commander: The Far Side of the World;Action;Peter Weir;Russell Crowe;Paul Bettany, Gerorge Innes;139;PG-13;2004/04/20
+1043;Master and Commander: The Far Side of the World;Action;Peter Weir;Russell Crowe;Paul Bettany, Gerorge Innes;139;PG-13;2004/04/20
+1044;Master and Commander: The Far Side of the World;Action;Peter Weir;Russell Crowe;Paul Bettany, Gerorge Innes;139;PG-13;2004/04/20
+1048;Manhunt;Action;Rockstar North;Play Station 2;M;2003/09/28
+1050;The Haunted Mansion;Comedy;Rob Minkoff;Eddie Murphy;Wallace Shawn, Nathaniel Parker;88;PG;2004/04/20
+1051;The Haunted Mansion;Comedy;Rob Minkoff;Eddie Murphy;Wallace Shawn, Nathaniel Parker;88;PG;2004/04/20
+1052;The Haunted Mansion;Comedy;Rob Minkoff;Eddie Murphy;Wallace Shawn, Nathaniel Parker;88;PG;2004/04/20
+1049;Medal of Honor: Rising Sun;Shooter;Electronic Arts Los Angeles;Play Station 2;T;2003/08/23
+1053;The Godfather;Drama;Francis Ford Coppola;Marlon Brando;Al Pacino,James Caan;175;PG-13;1972/01/01
+1054;The Godfather;Drama;Francis Ford Coppola;Marlon Brando;Al Pacino,James Caan;175;PG-13;1972/01/01
+1060;The Godfather;Drama;Francis Ford Coppola;Marlon Brando;Al Pacino,James Caan;175;PG-13;1972/01/01
+1061;The Godfather;Drama;Francis Ford Coppola;Marlon Brando;Al Pacino,James Caan;175;PG-13;1972/01/01
+1055;Need for Speed: Underground;Action;Black Box Games Ltd.;Play Station 2;E;2003/03/06
+1056;Need for Speed: Underground;Action;Black Box Games Ltd.;Play Station 2;E;2003/03/26
+1057;Need for Speed: Underground;Action;Black Box Games Ltd.;Play Station 2;E;2003/03/26
+1063;The Shawshank Redemption;Drama;Frank Darabont;Tim Robbins;Morgan Freeman,Bob Gunton;142;PG-13;1994/01/01
+1064;The Shawshank Redemption;Drama;Frank Darabont;Tim Robbins;Morgan Freeman,Bob Gunton;142;PG-13;1994/01/01
+1070;The Shawshank Redemption;Drama;Frank Darabont;Tim Robbins;Morgan Freeman,Bob Gunton;142;PG-13;1994/01/01
+1058;Mario Kart: Double Dash!!;Action;Nintendo Co. Ltd.;Nintendo Gamecube;E;2003/02/11
+1071;The Godfather: Part II;Drama;Francis Ford Coppola;Al Pacino,Diane Keaton;Robert Duvall,Robert De Niro;200;PG;1974/01/01
+1072;The Godfather: Part II;Drama;Francis Ford Coppola;Al Pacino,Diane Keaton;Robert Duvall,Robert De Niro;200;PG;1974/01/01
+1073;The Godfather: Part II;Drama;Francis Ford Coppola;Al Pacino,Diane Keaton;Robert Duvall,Robert De Niro;200;PG;1974/01/01
+1074;The Godfather: Part II;Drama;Francis Ford Coppola;Al Pacino,Diane Keaton;Robert Duvall,Robert De Niro;200;PG;1974/01/01
+1059;Madden NFL 2004;Sports;EA Sports;Play Station 2;E;2003/12/07
+1065;Madden NFL 2004;Sports;EA Sports;Play Station 2;E;2003/12/07
+1080;The Lord of the Rings: The Return of the King;Action;Peter Jackson;Noel Appleby,Alexandra Astin;Sean Astin,David Aston;201;PG-13;2003/01/01
+1081;The Lord of the Rings: The Return of the King;Action;Peter Jackson;Noel Appleby,Alexandra Astin;Sean Astin,David Aston;201;PG-13;2003/01/01
+1082;The Lord of the Rings: The Return of the King;Action;Peter Jackson;Noel Appleby,Alexandra Astin;Sean Astin,David Aston;201;PG-13;2003/01/01
+1083;The Lord of the Rings: The Return of the King;Action;Peter Jackson;Noel Appleby,Alexandra Astin;Sean Astin,David Aston;201;PG-13;2003/01/01
+1084;The Lord of the Rings: The Return of the King;Action;Peter Jackson;Noel Appleby,Alexandra Astin;Sean Astin,David Aston;201;PG-13;2003/01/01
+1066;Tom Clancy's Rainbow Six 3;Shooter;Ubi Soft Montreal;Play Station 2;M;2004/03/26
+1067;Tom Clancy's Rainbow Six 3;Shooter;Ubi Soft Montreal;Play Station 2;M;2004/03/26
+1068;Tom Clancy's Rainbow Six 3;Shooter;Ubi Soft Montreal;Play Station 2;M;2004/03/26
+1069;Tom Clancy's Rainbow Six 3;Shooter;Ubi Soft Montreal;Play Station 2;M;2004/03/26
+1090;Casablanca;Drama;Michael Curtiz;Humphrey Bogart,Ingrid Bergman;Peter Henreid,Claude Rains;102;G;1942/01/01
+1091;Casablanca;Drama;Michael Curtiz;Humphrey Bogart,Ingrid Bergman;Peter Henreid,Claude Rains;102;G;1942/01/01
+1075;MLB 2005;Sports;989 Sports;Play Station 2;E;2004/03/19
+1092;The Dark Knight;Action;Christopher Nolan;Christian Bale,Heath Ledger;Maggie Gyllenhaal,Michael Caine;152;PG-13;2008/07/18
+1093;The Dark Knight;Action;Christopher Nolan;Christian Bale,Heath Ledger;Maggie Gyllenhaal,Michael Caine;152;PG-13;2008/07/18
+1094;The Dark Knight;Action;Christopher Nolan;Christian Bale,Heath Ledger;Maggie Gyllenhaal,Michael Caine;152;PG-13;2008/07/18
+1100;The Dark Knight;Action;Christopher Nolan;Christian Bale,Heath Ledger;Maggie Gyllenhaal,Michael Caine;152;PG-13;2008/07/18
+1076;NBA Ballers;Sports;Midway Home Entertainment;Xbox;E;2004/04/09
+1077;NBA Ballers;Sports;Midway Home Entertainment;Xbox;E;2004/04/09
+1101;Schindler's List;Drama;Steven Speilberg;Liam Neeson,Ben Kingsley;Ralph Fiennes,Caroline Goodall;195;R;1993/12/23
+1102;Schindler's List;Drama;Steven Speilberg;Liam Neeson,Ben Kingsley;Ralph Fiennes,Caroline Goodall;195;R;1993/12/23
+1078;NBA Ballers;Sports;Midway Home Entertainment;Xbox;E;2004/04/09
+1079;NBA Ballers;Sports;Midway Home Entertainment;Xbox;E;2004/04/09
+1103;Star Wars: Episode V - The Empire Strikes Back;Action;Irvin Kershner;Mark Hamill,Harrison Ford;Carrie Fisher,Billy Dee Williams;124;PG;1980/05/21
+1104;Star Wars: Episode V - The Empire Strikes Back;Action;Irvin Kershner;Mark Hamill,Harrison Ford;Carrie Fisher,Billy Dee Williams;124;PG;1980/05/21
+1110;Star Wars: Episode V - The Empire Strikes Back;Action;Irvin Kershner;Mark Hamill,Harrison Ford;Carrie Fisher,Billy Dee Williams;124;PG;1980/05/21
+1085;Tom Clancy's Splinter Cell;Shooter;Ubi Soft Montreal;Game Boy Advance;T;2004/03/26
+1086;Tom Clancy's Splinter Cell;Shooter;Ubi Soft Montreal;Game Boy Advance;T;2004/03/26
+1087;Tom Clancy's Splinter Cell;Shooter;Ubi Soft Montreal;Game Boy Advance;T;2004/03/26
+1111;Raiders of the Lost Ark;Action;Steven Speilberg;Harrison Ford;Karen Allen,Paul Freeman;115;PG;1981/06/12
+1112;Raiders of the Lost Ark;Action;Steven Speilberg;Harrison Ford;Karen Allen,Paul Freeman;115;PG;1981/06/12
+1088;The Legend of Zelda: Ocarina of Time;Shooter;Nintendo;N64;T;1998/11/24 
+1113;Star Wars;Action;George Lucas;Mark Hamill,Harrison Ford;Carrie Fisher,Peter Cushing;121;PG;1977/05/25
+1114;Star Wars;Action;George Lucas;Mark Hamill,Harrison Ford;Carrie Fisher,Peter Cushing;121;PG;1977/05/25
+1120;Star Wars;Action;George Lucas;Mark Hamill,Harrison Ford;Carrie Fisher,Peter Cushing;121;PG;1977/05/25
+1089;Soul Calibur;Shooter;Namco;DC;T;1999/09/08
+1095;Soul Calibur;Shooter;Namco;DC;T;1999/09/08
+1096;Soul Calibur;Shooter;Namco;DC;T;1999/09/08
+1097;Soul Calibur;Shooter;Namco;DC;T;1999/09/08
+1121;The Silence of the Lambs;Drama;Jonathan Demme;Jodie Foster,Anthony Hopkins;Scott Glenn,Anthony Heald;118;R;1991/02/14
+1098;Tekken 3;Shooter;Namco;Play Station;T;1998/02/28
+1099;Tekken 3;Shooter;Namco;Play Station;T;1998/02/28
+1105;Tekken 3;Shooter;Namco;Play Station;T;1998/02/28
+1106;Tekken 3;Shooter;Namco;Play Station;T;1998/02/28
+1107;Tekken 3;Shooter;Namco;Play Station;T;1998/02/28
+1108;GoldenEye 007;Shooter;Nintendo;N64;M;1997/08/25
+1109;GoldenEye 007;Shooter;Nintendo;N64;M;1997/08/25
+1115;GoldenEye 007;Shooter;Nintendo;N64;M;1997/08/25
+1122;WALL-E;Animation;Andrew Stanton;Ben Burtt,Elissa Knight;Jeff Garland;98;G;2008/06/27
+1123;WALL-E;Animation;Andrew Stanton;Ben Burtt,Elissa Knight;Jeff Garland;98;G;2008/06/27
+1124;WALL-E;Animation;Andrew Stanton;Ben Burtt,Elissa Knight;Jeff Garland;98;G;2008/06/27
+1130;WALL-E;Animation;Andrew Stanton;Ben Burtt,Elissa Knight;Jeff Garland;98;G;2008/06/27
+1116;Metroid Prime;Shooter;Nintendo;Nintendo Gamecube;T;2002/11/17 
+1117;Resident Evil 4;Shooter;Capcom;Nintendo Gamecube;T;2005/01/11
+1118;Resident Evil 4;Shooter;Capcom;PS2;T;2005/01/11
+1131;Saving Private Ryan;Drama;Steven Speilberg;Tom Hanks,Tom Sizemore;Edward Burns,Barry Pepper;170;R;1998/07/24
+1119;Halo: Combat Evolved;Shooter;Microsoft Game Studios;XBOX;T;2001/11/14
+1125;Halo: Combat Evolved;Shooter;Microsoft Game Studios;XBOX;T;2001/11/14
+1126;Halo: Combat Evolved;Shooter;Microsoft Game Studios;XBOX;T;2001/11/14
+1127;Halo: Combat Evolved;Shooter;Microsoft Game Studios;XBOX;T;2001/11/14
+1132;Saving Private Ryan;Drama;Steven Speilberg;Tom Hanks,Tom Sizemore;Edward Burns,Barry Pepper;170;R;1998/07/24
+1128;NFL 2K1;Sports;Sega;DC;E;2000/09/07
+1129;NFL 2K1;Sports;Sega;DC;E;2000/09/07
+1135;NFL 2K1;Sports;Sega;DC;E;2000/09/07
+1133;Saving Private Ryan;Drama;Steven Speilberg;Tom Hanks,Tom Sizemore;Edward Burns,Barry Pepper;170;R;1998/07/24
+1136;Half-Life 2;Shooter;VU Games;PC;T;2004/11/16
+1137;Half-Life 2;Shooter;VU Games;PC;T;2004/11/16
+1138;Half-Life 2;Shooter;VU Games;PC;T;2004/11/16
+1139;Half-Life 2;Shooter;VU Games;PC;T;2004/11/16
+1145;Half-Life 2;Shooter;VU Games;PC;T;2004/11/16

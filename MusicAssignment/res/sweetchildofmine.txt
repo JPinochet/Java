@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 d3,d4,a4,g4,g5,a4,f#5,a4
 d3,d4,a4,g4,g5,a4,f#5,a4
 e3,d4,a4,g4,g5,a4,f#5,a4
@@ -21,4 +22,29 @@ e3,d4,a4,g4,g5,a4,f#5,a4
 g3,d4,a4,g4,g5,a4,f#5,a4
 g3,d4,a4,g4,g5,a4,f#5,a4
 g5,b5,e5,b5,g5,b5,g5#,b5
+=======
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+d3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+e3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+g3,d4,a4,g4,g5,a4,f#5,a4
+g5,b5,e5,b5,g5,b5,g5#,b5
+>>>>>>> origin/master
 f#5,g#4,f5,g#4,d#5,g#4,c4#

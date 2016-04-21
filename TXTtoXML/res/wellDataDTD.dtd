@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!ELEMENT wells (well*)>
@@ -7,4 +8,15 @@
 		<!ELEMENT perfDepth 	(#PCDATA)>
 		<!ELEMENT perdZone 	(#PCDATA)>
 		<!ELEMENT strokeLength 	(#PCDATA)>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT wells (well*)>
+	<!ELEMENT well (location, wellDepth, perfDepth, perdZone, strokeLength, strokePM)>
+		<!ELEMENT location 	(#PCDATA)>
+		<!ELEMENT wellDepth 	(#PCDATA)>
+		<!ELEMENT perfDepth 	(#PCDATA)>
+		<!ELEMENT perdZone 	(#PCDATA)>
+		<!ELEMENT strokeLength 	(#PCDATA)>
+>>>>>>> origin/master
 		<!ELEMENT strokePM 	(#PCDATA)>
